@@ -53,4 +53,7 @@ Six different machine learning models were used to complete this analysis, each 
   * High risk recall: 91%
   * Low risk precison: 100%
   * Low risk recall: 94%
+  
+## Summary
+Of all the machine learning models used through out the analysis, I would reccomend using the Easy Ensemble AdaBoost Classifier as it had the highest balanced accuracy score. 
 
